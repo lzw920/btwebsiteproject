@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color:#44d1db
+}
+
+
+h1 {
+    text-align: center;
+    color: #fdd6ff;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure
+    }
+
+li {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    color:azure
+}
+
+figcaption{
+    font-family: Arial, Helvetica, sans-serif;
+    color:azure
+}
